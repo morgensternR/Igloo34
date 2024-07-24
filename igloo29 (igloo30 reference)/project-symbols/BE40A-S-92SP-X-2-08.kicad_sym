@@ -1,0 +1,176 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "BE40A-S-92SP-2-2-08-0152" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at -7.62 13.462 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "BE40A-S-92SP-2-2-08-0152" (id 1) (at -7.62 -17.78 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "SAMTEC_BE40A-S-92SP-2-2-08-0152" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Samtec" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "DESCRIPTION" "BE40A Series 50 GHz, Bulls Eye®: Double Row, High-Performance Test System" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PACKAGE" "None" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PRICE" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "BE40A-S-92SP-2-2-08-0152" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "AVAILABILITY" "In Stock" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PURCHASE-URL" "https://pricing.snapeda.com/search/part/BE40A-S-92SP-2-2-08-0152/?ref=eda" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "BE40A-S-92SP-2-2-08-0152_0_0"
+      (rectangle (start -7.62 -15.24) (end 7.62 12.7)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -12.7 10.16 0) (length 5.08)
+        (name "A01"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A01"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 10.16 180.0) (length 5.08)
+        (name "B01"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B01"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 7.62 0) (length 5.08)
+        (name "A02"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A02"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 5.08 0) (length 5.08)
+        (name "A03"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A03"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 7.62 180.0) (length 5.08)
+        (name "B02"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B02"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 5.08 180.0) (length 5.08)
+        (name "B03"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B03"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 2.54 180.0) (length 5.08)
+        (name "B04"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B04"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 2.54 0) (length 5.08)
+        (name "A04"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A04"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 0.0 0) (length 5.08)
+        (name "A05"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A05"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 0.0 180.0) (length 5.08)
+        (name "B05"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B05"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -2.54 0) (length 5.08)
+        (name "A06"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A06"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -2.54 180.0) (length 5.08)
+        (name "B06"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B06"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -5.08 0) (length 5.08)
+        (name "A07"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A07"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -7.62 0) (length 5.08)
+        (name "A08"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "A08"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -5.08 180.0) (length 5.08)
+        (name "B07"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B07"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -7.62 180.0) (length 5.08)
+        (name "B08"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "B08"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -12.7 0) (length 5.08)
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
