@@ -1,0 +1,57 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x08_Pin,wirebond_8x_25mm,-8.75,-0.0,-90.0,top
+J2,Conn_01x08_Pin,wirebond_8x_25mm,8.75,-0.0,90.0,top
+J3,BE40A-S-92SP-2-2-08-0152,BE40A-S-92SP-X-2-08,0.0,38.0,0.0,top
+J4,BE40A-S-92SP-2-2-08-0152,BE40A-S-92SP-X-2-08,0.0,-38.0,180.0,top
+J5,Conn_01x08_Pin,wirebond_8x_25mm,0.0,8.75,0.0,top
+J6,Conn_01x08_Pin,wirebond_8x_25mm,0.0,-8.75,180.0,top
+J7,LSHM-120-02.5-L-DV-A-S-TR,SAMTEC_LSHM-120-02.5-L-DV-A-S-TR,-37.7,-14.0,-90.0,top
+J8,LSHM-120-02.5-L-DV-A-S-TR,SAMTEC_LSHM-120-02.5-L-DV-A-S-TR,37.7,14.0,90.0,top
+J9,Conn_01x10,wirebond_10x_1cm,0.0,-9.25,180.0,top
+J10,Conn_01x10,wirebond_10x_1cm,0.0,9.25,0.0,top
+J11,LSHM-120-02.5-L-DV-A-S-TR,SAMTEC_LSHM-120-02.5-L-DV-A-S-TR,37.7,-14.0,90.0,top
+J12,LSHM-120-02.5-L-DV-A-S-TR,SAMTEC_LSHM-120-02.5-L-DV-A-S-TR,-37.7,14.0,-90.0,top
+J13,Conn_01x10,wirebond_10x_1cm,9.25,-0.0,-90.0,top
+J14,Conn_01x10,wirebond_10x_1cm,-9.25,-0.0,90.0,top
+J15,LSHM-120-02.5-L-DV-A-S-TR,SAMTEC_LSHM-120-02.5-L-DV-A-S-TR,-37.7,35.8,-90.0,top
+J16,Conn_01x02,wirebond_2x_500um,-9.25,5.75,90.0,top
+J17,Conn_01x02,wirebond_2x_500um,-5.741,9.25,0.0,top
+J18,Conn_01x02,wirebond_2x_500um,5.739,9.25,0.0,top
+J19,Conn_01x02,wirebond_2x_500um,9.25,5.741,-90.0,top
+J20,LSHM-120-02.5-L-DV-A-S-TR,SAMTEC_LSHM-120-02.5-L-DV-A-S-TR,37.7,-36.1,90.0,top
+J21,Conn_01x02,wirebond_2x_500um,9.25,-5.749,-90.0,top
+J22,Conn_01x02,wirebond_2x_500um,5.741,-9.25,180.0,top
+J23,Conn_01x02,wirebond_2x_500um,-5.749,-9.25,180.0,top
+J24,Conn_01x02,wirebond_2x_500um,-9.25,-5.751,90.0,top
+TP1,TestPoint,Test point top pad,4.79,-20.5,0.0,top
+TP2,TestPoint,Test point top pad,6.7,-20.5,0.0,top
+TP3,TestPoint,Test point top pad,2.88,-20.5,0.0,top
+TP4,TestPoint,Test point top pad,0.96,-20.5,0.0,top
+TP5,TestPoint,Test point top pad,-0.96,-20.5,0.0,top
+TP6,TestPoint,Test point top pad,-2.87,-20.5,0.0,top
+TP7,TestPoint,Test point top pad,-4.78,-20.5,0.0,top
+TP8,TestPoint,Test point top pad,-6.7,-20.5,0.0,top
+TP9,TestPoint,Test point top pad,-6.7,20.5,0.0,top
+TP10,TestPoint,Test point top pad,-4.78,20.5,0.0,top
+TP11,TestPoint,Test point top pad,-2.87,20.5,0.0,top
+TP12,TestPoint,Test point top pad,-0.96,20.5,0.0,top
+TP13,TestPoint,Test point top pad,0.96,20.5,0.0,top
+TP14,TestPoint,Test point top pad,2.88,20.5,0.0,top
+TP15,TestPoint,Test point top pad,4.79,20.5,0.0,top
+TP16,TestPoint,Test point top pad,6.7,20.5,0.0,top
+TP17,TestPoint,Test point top pad,-19.75,-6.7,0.0,top
+TP18,TestPoint,Test point top pad,-19.75,-4.79,0.0,top
+TP19,TestPoint,Test point top pad,-19.75,-2.87,0.0,top
+TP20,TestPoint,Test point top pad,-19.745,-0.96,0.0,top
+TP21,TestPoint,Test point top pad,19.75,-0.96,0.0,top
+TP22,TestPoint,Test point top pad,19.75,-2.87,0.0,top
+TP23,TestPoint,Test point top pad,19.75,-4.79,0.0,top
+TP24,TestPoint,Test point top pad,19.75,-6.7,0.0,top
+TP25,TestPoint,Test point top pad,19.75,6.7,0.0,top
+TP26,TestPoint,Test point top pad,19.75,4.79,0.0,top
+TP27,TestPoint,Test point top pad,19.75,2.87,0.0,top
+TP28,TestPoint,Test point top pad,19.75,0.96,0.0,top
+TP29,TestPoint,Test point top pad,-19.75,0.96,0.0,top
+TP30,TestPoint,Test point top pad,-19.75,2.87,0.0,top
+TP31,TestPoint,Test point top pad,-19.75,4.79,0.0,top
+TP32,TestPoint,Test point top pad,-19.75,6.7,0.0,top
