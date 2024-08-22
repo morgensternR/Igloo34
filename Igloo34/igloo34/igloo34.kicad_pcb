@@ -225,7 +225,7 @@
     (property "ki_keywords" "test point tp")
     (path "/d7b1d19a-1fb1-422c-b2cc-246696777336")
     (attr through_hole)
-    (fp_text reference "TP24" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP24" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 20d90e92-31c2-4691-b987-2ea68115bb7b)
     )
@@ -285,7 +285,7 @@
     (property "ki_keywords" "test point tp")
     (path "/bd14ca4e-15c9-49f9-9629-a4af2d6fba5d")
     (attr through_hole)
-    (fp_text reference "TP31" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP31" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp fbf1701b-c57e-4c8b-8a9d-d8bd9faaf4f0)
     )
@@ -353,7 +353,7 @@
     (property "ki_keywords" "test point tp")
     (path "/56250aac-35aa-4e20-9a5f-afbb8a234303")
     (attr through_hole)
-    (fp_text reference "TP3" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP3" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp d539d178-3493-48ac-9970-4870c2c2d615)
     )
@@ -386,7 +386,7 @@
     (property "ki_keywords" "test point tp")
     (path "/06d41bb8-bf66-46ed-b34d-44e4282cb597")
     (attr through_hole)
-    (fp_text reference "TP29" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP29" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp c2e60edd-002f-46e0-bea6-28df53568370)
     )
@@ -419,7 +419,7 @@
     (property "ki_keywords" "test point tp")
     (path "/b8d56813-8f30-4729-8dc6-fa516fdd2672")
     (attr through_hole)
-    (fp_text reference "TP22" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP22" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 42330e11-bcce-4564-8c93-d59b57c4d722)
     )
@@ -452,7 +452,7 @@
     (property "ki_keywords" "test point tp")
     (path "/90f0ae2e-5437-4826-9ed8-346b3d7e971b")
     (attr through_hole)
-    (fp_text reference "TP11" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP11" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp e3c13765-6042-420a-ac72-fb1c4a149347)
     )
@@ -512,7 +512,7 @@
     (property "ki_keywords" "test point tp")
     (path "/f3840ed9-b204-4b97-b1c1-810107db1c13")
     (attr through_hole)
-    (fp_text reference "TP14" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP14" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp b895bdb3-40f0-4f63-b4d9-dd821f9b0a2d)
     )
@@ -688,7 +688,7 @@
     (property "ki_keywords" "test point tp")
     (path "/c3513e0d-5d96-4661-8345-711cb01a6298")
     (attr through_hole)
-    (fp_text reference "TP13" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP13" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 7c93faad-3538-401b-93e1-dce89a5fac2f)
     )
@@ -721,7 +721,7 @@
     (property "ki_keywords" "test point tp")
     (path "/65403543-af36-4475-ad81-31d088ec4e8d")
     (attr through_hole)
-    (fp_text reference "TP1" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP1" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 3d8b7093-acb3-4753-81e3-fb79f6d1be4e)
     )
@@ -754,7 +754,7 @@
     (property "ki_keywords" "test point tp")
     (path "/961eb5e4-86a9-4abc-bd59-9ab979cf841f")
     (attr through_hole)
-    (fp_text reference "TP5" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP5" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 6dce2c76-9387-4dd0-b8c3-781bc0f812e2)
     )
@@ -787,7 +787,7 @@
     (property "ki_keywords" "test point tp")
     (path "/5d8683a8-4d28-4121-863d-59ccc445ac93")
     (attr through_hole)
-    (fp_text reference "TP2" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP2" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp e6495f0d-1dde-47d7-af48-3cefb3259b89)
     )
@@ -847,7 +847,7 @@
     (property "ki_keywords" "test point tp")
     (path "/4b9623af-b1ef-4bd8-97b5-ba4d122906f4")
     (attr through_hole)
-    (fp_text reference "TP12" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP12" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 7c1a4281-9b7b-4a89-983c-5511e6a4028e)
     )
@@ -1282,7 +1282,7 @@
     (property "ki_keywords" "test point tp")
     (path "/0d752f98-7944-4db8-9ce6-62d9d47254a4")
     (attr through_hole)
-    (fp_text reference "TP8" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP8" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp c8881a1e-935d-462b-ba89-16374ee2bac5)
     )
@@ -1315,7 +1315,7 @@
     (property "ki_keywords" "test point tp")
     (path "/5819ec50-3b76-4c43-b979-051535692577")
     (attr through_hole)
-    (fp_text reference "TP30" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP30" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp c9839bd5-e412-4f14-9255-bb1dd4cb5e84)
     )
@@ -1348,7 +1348,7 @@
     (property "ki_keywords" "test point tp")
     (path "/04243ed7-453b-49f5-aa61-6de6dd079085")
     (attr through_hole)
-    (fp_text reference "TP16" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP16" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp d8a316dd-87ca-4b14-a763-22b0d12c2c6e)
     )
@@ -1381,7 +1381,7 @@
     (property "ki_keywords" "test point tp")
     (path "/3d9ccc68-a933-4e7a-b5c1-504504976da2")
     (attr through_hole)
-    (fp_text reference "TP19" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP19" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 8a2ef3d6-5e9b-49d0-85e8-85bb638e4892)
     )
@@ -1449,7 +1449,7 @@
     (property "ki_keywords" "test point tp")
     (path "/27b32bf5-092c-4718-87ff-045607c39860")
     (attr through_hole)
-    (fp_text reference "TP20" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP20" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp f14f4adc-82b3-4453-9775-4ce5d7ec6b91)
     )
@@ -1509,7 +1509,7 @@
     (property "ki_keywords" "test point tp")
     (path "/75abda99-4b5e-4c30-88a2-71d5f68738c7")
     (attr through_hole)
-    (fp_text reference "TP25" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP25" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp b22a284c-1c95-4c3e-bb58-19c9637c0c57)
     )
@@ -1685,7 +1685,7 @@
     (property "ki_keywords" "test point tp")
     (path "/ef1adcfd-ad72-41f5-83ae-4c5c532ac17d")
     (attr through_hole)
-    (fp_text reference "TP7" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP7" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp a6e53b07-b3f7-4727-b419-6a3015bf1fc7)
     )
@@ -1718,7 +1718,7 @@
     (property "ki_keywords" "test point tp")
     (path "/8e738670-2a96-4537-8898-64a7f4e18a6e")
     (attr through_hole)
-    (fp_text reference "TP6" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP6" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 8fa6b302-4deb-48db-96dd-43d8a36ccc53)
     )
@@ -1751,7 +1751,7 @@
     (property "ki_keywords" "test point tp")
     (path "/bdcf1d11-838b-4f4b-810a-5f6ac7d9ef06")
     (attr through_hole)
-    (fp_text reference "TP15" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP15" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 6ef9a228-e685-4dab-8238-ce9cb2788fb1)
     )
@@ -1966,7 +1966,7 @@
     (property "ki_keywords" "test point tp")
     (path "/c64ebf62-4faf-4797-b8df-035589254f86")
     (attr through_hole)
-    (fp_text reference "TP17" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP17" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 64141144-08dc-45a7-8ea0-fcb1081d83db)
     )
@@ -2038,7 +2038,7 @@
     (property "ki_keywords" "test point tp")
     (path "/12842616-057c-447a-bdbf-d206c7af258c")
     (attr through_hole)
-    (fp_text reference "TP18" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP18" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 660817cf-fba0-4431-b560-d87599f84a6f)
     )
@@ -2071,7 +2071,7 @@
     (property "ki_keywords" "test point tp")
     (path "/847ca08a-1fd1-4638-b1ff-728e5cca0f40")
     (attr through_hole)
-    (fp_text reference "TP27" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP27" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 09dc0c4d-ce4d-4f76-a806-98bc48985b88)
     )
@@ -2104,7 +2104,7 @@
     (property "ki_keywords" "test point tp")
     (path "/d6087722-bfa9-4dcd-afa5-ae80cfef9b5c")
     (attr through_hole)
-    (fp_text reference "TP28" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP28" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp b34a97e9-88e1-42da-b458-31276a50adf8)
     )
@@ -2137,7 +2137,7 @@
     (property "ki_keywords" "test point tp")
     (path "/eeffd4fd-6741-4d61-b6cc-f9c933dfbf54")
     (attr through_hole)
-    (fp_text reference "TP21" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP21" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp c75984ed-e0d2-4028-b3b5-e00a686acee4)
     )
@@ -2170,7 +2170,7 @@
     (property "ki_keywords" "test point tp")
     (path "/a48001dd-222c-4612-93be-661d81adac9d")
     (attr through_hole)
-    (fp_text reference "TP23" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP23" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 5894787a-4a32-4c8f-b916-1a3e917a31da)
     )
@@ -6569,7 +6569,7 @@
     (property "ki_keywords" "test point tp")
     (path "/0f2a8c84-df3d-4e05-a047-20c8ee3aba96")
     (attr through_hole)
-    (fp_text reference "TP10" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP10" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 712b25fa-0a14-4afe-84c8-b28fee5b4069)
     )
@@ -6602,7 +6602,7 @@
     (property "ki_keywords" "test point tp")
     (path "/73aad750-60e5-42f2-be73-60ac523f09f1")
     (attr through_hole)
-    (fp_text reference "TP4" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP4" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 9d98de6c-1794-4f6a-884f-4e75808197e7)
     )
@@ -6635,7 +6635,7 @@
     (property "ki_keywords" "test point tp")
     (path "/f21372f9-677d-4f07-8f9d-3606d6b19818")
     (attr through_hole)
-    (fp_text reference "TP9" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP9" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp ad13b550-b9b2-4fed-986a-c5f2269bc94f)
     )
@@ -11215,7 +11215,7 @@
     (property "ki_keywords" "test point tp")
     (path "/03b00f02-4fbb-4837-b29b-0d4fc6c48cc7")
     (attr through_hole)
-    (fp_text reference "TP26" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP26" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 83843c06-0642-4b5a-a607-cc1acf2210a5)
     )
@@ -11322,7 +11322,7 @@
     (property "ki_keywords" "test point tp")
     (path "/3dd0d0c4-76e7-460f-a7ab-6ec45ec7dd9b")
     (attr through_hole)
-    (fp_text reference "TP32" (at 0 -14.88 unlocked) (layer "F.SilkS")
+    (fp_text reference "TP32" (at 0 -14.88 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp f9c42651-cdad-4dac-9d82-144da12ee72d)
     )
