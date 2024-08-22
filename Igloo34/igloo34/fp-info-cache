@@ -1,4 +1,4 @@
-22463646805202867
+22465371158202882
 0_Library
 BE40A-S-92SP-X-2-08
 
@@ -13,6 +13,13 @@ SAMTEC_LSHM-120-02.5-L-DV-A-S-TR
 0
 42
 42
+0_Library
+Test point top pad
+
+
+0
+1
+1
 0_Library
 wirebond_2x_500um
 
