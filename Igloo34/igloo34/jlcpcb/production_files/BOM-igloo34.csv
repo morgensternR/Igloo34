@@ -1,5 +1,5 @@
 Comment,Designator,Footprint,LCSC
-LSHM-120-02.5-L-DV-A-S-TR,"J11,J12,J15,J7,J8",SAMTEC_LSHM-120-02.5-L-DV-A-S-TR,C3654193
+LSHM-120-02.5-L-DV-A-S-TR,"J11,J12,J15,J20,J7,J8",SAMTEC_LSHM-120-02.5-L-DV-A-S-TR,C3654193
 BE40A-S-92SP-2-2-08-0152,J3,BE40A-S-92SP-X-2-08,
 TestPoint,TP32,Test point top pad,
 TestPoint,TP31,Test point top pad,
@@ -33,7 +33,6 @@ TestPoint,TP4,Test point top pad,
 TestPoint,TP3,Test point top pad,
 TestPoint,TP2,Test point top pad,
 TestPoint,TP1,Test point top pad,
-LSHM-120-02.5-L-DV-A-S-TR,J20,SAMTEC_LSHM-120-02.5-L-DV-A-S-TR,
 Conn_01x02,J21,wirebond_2x_500um,
 Conn_01x02,J17,wirebond_2x_500um,
 Conn_01x08_Pin,J6,wirebond_8x_25mm,
